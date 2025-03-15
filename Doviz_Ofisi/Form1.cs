@@ -19,7 +19,7 @@ namespace Doviz_Ofisi
             InitializeComponent();
         }
 
-        SqlConnection baglanti = new SqlConnection(@"Data Source=DESKTOP-AOEQHQU;Initial Catalog=DovizBurosu;Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection(@"Data Source=LAPTOP-JQ02U7VO;Initial Catalog=DovizBurosu;Integrated Security=True;");
 
         private void Form1_Load(object sender, EventArgs e)
         {
