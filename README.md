@@ -2,6 +2,9 @@
 
 A desktop application simulating a basic **Currency Exchange Office** built with **C# Windows Forms** and **SQL Server**. It allows users to **buy/sell USD and EUR**, fetches real-time exchange rates from the **Central Bank of Turkey (TCMB)**, and updates the local balance after each transaction.
 
+## 📸 Images
+![Directory](screenshots/Directory.png)
+
 ## 🌟 Features
 
 - 📈 Real-time exchange rate fetching from [TCMB XML API](https://www.tcmb.gov.tr/kurlar/today.xml)
